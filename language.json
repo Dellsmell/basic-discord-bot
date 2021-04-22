@@ -1,0 +1,27 @@
+{
+    "en" : {
+        "misconfigured" : "I have been misconfigured! Make sure I have the proper permissions.",
+        "general_error" : "An error has occurred... Please try again later",
+        "try_again" : "Please try again...",
+        "user_noperms" : "You do not have permission to use that!",
+        "ban" : {
+            "cmd_name" : "ban",
+            "cmd_description" : "Bans a user from your server",
+            "user_arg_missing" : "Please specify a user!",
+            "user_not_found" : "Can't seem to find this user.",
+            "user_unbanable_perms" : "This user can't be banned. It is either because they are a mod/admin, or their highest role is higher than mine",
+            "user_ban_self" : "You can't ban yourself",
+            "embed_title" : "Member Banned",
+            "embed_user_banned_name" : "User Banned",
+            "embed_banned_by" : "Banned by",
+            "embed_reason" : "Reason",
+            "embed_time" : "Time Banned",
+            "default_ban_reason" : "Unspecified"
+        },
+        "ping" : {
+            "cmd_name" : "ping",
+            "cmd_description" : "Ping Command",
+            "pinging" : "Pinging..."
+        }
+    }
+}

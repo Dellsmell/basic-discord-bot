@@ -1,5 +1,8 @@
 {
     "prefix" : "!",
     "token" : "",
-    "embedFooter" : "Bot by: Dellsmell"
+    "embedFooter" : "Bot by: Dellsmell / Sideliner",
+    "commands" : {
+        "ping" : true
+    }
 }
