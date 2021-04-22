@@ -3,6 +3,7 @@
     "token" : "",
     "embedFooter" : "Bot by: Dellsmell / Sideliner",
     "commands" : {
-        "ping" : true
+        "ping" : true,
+        "ban" : true
     }
 }
